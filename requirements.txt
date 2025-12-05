@@ -1,0 +1,6 @@
+rdflib
+langchain
+langchain-community
+transformers 
+accelerate 
+sentencepiece
